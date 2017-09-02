@@ -8,9 +8,9 @@
 */
   text-align: right;
    direction: rtl;
-/*   letter-spacing: 0;
-   line-height: 1em;
-   font-size: 1.5em; */
+  letter-spacing: 0;
+   line-height: 1.5em;
+   font-size: 1.1em; 
    margin: 0px;
    padding: 0;
 
@@ -21,9 +21,13 @@ p {
 	 TEXT-INDENT: 28.3pt; 
 	 TEXT-ALIGN: justify; 
 	 TEXT-KASHIDA: 0% ;
-	 align: justify;
+	 align: justify; 
+   line-height: 2em;
+   font-size: 1.1em; 
 	 }
- 
+ a:visited {color: #FF4500}
+a:focus,a:hover {color: #FF4500}
+a:active {color: #ff99ff}
 h1 {
    font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;
    font-weight: bold;
@@ -61,7 +65,7 @@ h4 {
 .ui-page { -webkit-backface-visibility: hidden; }
 .mikimg {
   text-align: center;
-
+}
 .mikimg img {
 border: 2px solid #FFF;
 box-shadow: 0 0 2px #999999;
