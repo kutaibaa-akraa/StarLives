@@ -10,7 +10,7 @@
    direction: rtl;
   letter-spacing: 0;
    line-height: 1.5em;
-   font-size: 1.1em; 
+   font-size: 1em; 
    margin: 0px;
    padding: 0;
 
@@ -22,8 +22,8 @@ p {
 	 TEXT-ALIGN: justify; 
 	 TEXT-KASHIDA: 0% ;
 	 align: justify; 
-   line-height: 2em;
-   font-size: 1.1em; 
+   line-height: 1.5em;
+   font-size: 1em; 
 	 }
  a:visited {color: #FF4500}
 a:focus,a:hover {color: #FF4500}
@@ -33,7 +33,7 @@ h1 {
    font-weight: bold;
    color: #A98;
    font-size: 1em;
-   line-height: 1.4em;
+   line-height: 1.5em;
    text-align: center;
    direction: rtl;
 }
