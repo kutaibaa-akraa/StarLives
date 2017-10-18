@@ -32,7 +32,7 @@ h1 {
    font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;
    font-weight: bold;
    color: #A98;
-   font-size: 1em;
+   font-size: 1.3em;
    line-height: 1.5em;
    text-align: center;
    direction: rtl;
@@ -43,7 +43,7 @@ h2 {
    font-weight: normal;
    text-align: center;
    direction: rtl;
-   font-size: 1.2em;
+   font-size: 1em;
    line-height: 1em;
    padding-bottom: 1em;
 }
@@ -52,14 +52,14 @@ h3 {
    font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;
    font-weight: bold;
    text-align: center;
-   line-height: 1em;
+   line-height: 0.8em;
 }
 
 h4 {
    font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif;
    font-weight: normal;
    text-align: center;
-   font-size: 0.8em;
+   font-size: 0.5em;
    line-height: 1.2em;
 }
 .ui-page { -webkit-backface-visibility: hidden; }
@@ -166,4 +166,4 @@ padding:0;
     font-variant: small-caps;
     font-weight: normal;
     padding: 5px;
-}  
+}
